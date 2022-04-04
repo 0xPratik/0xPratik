@@ -30,9 +30,11 @@
 
 ### Honors & Awards 🏅
 
+ - Member of SuperTeam DAO
  - 2nd Prize at Polkadot Buildathon India
  - 2 bounties Won at EthOddesey Hackathon
- - Member of SuperTeam DAO
+
+ 
 
  <br />
  <br />
