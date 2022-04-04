@@ -34,7 +34,9 @@
  - 2 bounties Won at EthOddesey Hackathon
  - Member of SuperTeam DAO
 
-
+ <br />
+ <br />
+ <br />
 
 
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xPratik&show_icons=true&theme=radical)
