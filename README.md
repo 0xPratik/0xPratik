@@ -12,17 +12,28 @@
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" />
 </a>
 
+
+
+
+
+
 ### My Experiences 🙌
 
  - Major League Hacking Spring Fellow 2022, working on [Wallet Adapter](https://github.com/solana-labs/wallet-adapter/), [Solana Pay](https://github.com/solana-labs/solana-pay) and [Solana CookBook](https://github.com/solana-developers/solana-cookbook)
  - Launched 7+ NFT Collection's on Solana
  - Worked as a Full Stack developer at xHashtag
 
+
+
+
 ### Honors & Awards 🏅
 
  - 2nd Prize at Polkadot Buildathon India
  - 2 bounties Won at EthOddesey Hackathon
  - Member of SuperTeam DAO
+
+
+
 
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xPratik&show_icons=true&theme=radical)
 
