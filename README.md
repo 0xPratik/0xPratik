@@ -12,7 +12,7 @@
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" />
 </a>
 
-</br>
+<br>
 
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xPratik&show_icons=true&theme=radical)
 
