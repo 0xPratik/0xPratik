@@ -8,9 +8,13 @@
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 
-<a href="mailto:sariapratik@gmail.com">
+<a href="https://twitter.com/PratikSaria">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" />
 </a>
+
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xPratik&show_icons=true&theme=radical)
+
+![Pratik's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=0xPratik&theme=blue-green)
 
 
 
