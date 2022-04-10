@@ -12,7 +12,7 @@
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" />
 </a>
 <a href="https://calendly.com/pratiksaria/chat">
-  <img align="left" width="26px" src="https://logos-world.net/wp-content/uploads/2021/03/Google-Calendar-Logo-700x394.png" />
+  <img align="left" width="26px" height="20px" src="https://logos-world.net/wp-content/uploads/2021/03/Google-Calendar-Logo-700x394.png" />
 </a>
 
  <br />
