@@ -18,6 +18,11 @@
  <br />
  <br />
 
+### My Personal Projects
+
+- I am working on Writing a Anchor Client for token-metadata-program
+- Working on a UI to generate a UI based on anchor IDL
+- Building an E-commerece open source dapp with Solana pay and anchor with feature like token,NFT gating, NFT coupons and alot of fun stuff 
 
 
 
