@@ -53,7 +53,7 @@
 
 ![Pratik's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=0xPratik&theme=blue-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xPratik&layout=compact&theme=blue-green
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xPratik&theme=blue-green
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
