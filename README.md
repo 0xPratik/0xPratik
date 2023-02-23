@@ -18,17 +18,13 @@
  <br />
  <br />
 
-### My Personal Projects
-
-- I am working on Writing a Anchor Client for token-metadata-program
-- Working on a UI to generate a UI based on anchor IDL
-- Building an E-commerece open source dapp with Solana pay and anchor with feature like token,NFT gating, NFT coupons and alot of fun stuff 
 
 
 
 
 ### My Experiences 🙌
 
+ - Worked with Metaplex as a Community Developer
  - Major League Hacking Spring Fellow 2022, working on [Wallet Adapter](https://github.com/solana-labs/wallet-adapter/), [Solana Pay](https://github.com/solana-labs/solana-pay) and [Solana CookBook](https://github.com/solana-developers/solana-cookbook)
  - Launched 7+ NFT Collection's on Solana
 
@@ -38,8 +34,9 @@
 ### Honors & Awards 🏅
 
  - Member of SuperTeam DAO
- - 2nd Prize at Polkadot Buildathon India
+ -  Won 1st prize and 2nd prize in two tracks in sandstorm hackathon
  - 2 bounties Won at EthOddesey Hackathon
+ - 2nd Prize at Polkadot Buildathon India
 
  
 
