@@ -11,7 +11,7 @@
 <a href="https://twitter.com/PratikSaria">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" />
 </a>
-<a href="https://calendly.com/pratiksaria/chat">
+<a href="https://calendly.com/pratiksaria/meet?month=2023-03">
   <img align="left" width="26px"  src="https://iconape.com/wp-content/files/hh/369342/svg/calendar-3-logo-icon-png-svg.png" />
 </a>
 
