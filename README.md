@@ -26,7 +26,7 @@
 
  - Worked with Metaplex as a Community Developer
  - Major League Hacking Spring Fellow 2022, working on [Wallet Adapter](https://github.com/solana-labs/wallet-adapter/), [Solana Pay](https://github.com/solana-labs/solana-pay) and [Solana CookBook](https://github.com/solana-developers/solana-cookbook)
- - Launched 7+ NFT Collection's on Solana
+ 
 
 
 
